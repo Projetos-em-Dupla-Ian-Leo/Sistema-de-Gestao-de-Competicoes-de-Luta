@@ -6,15 +6,15 @@ O objetivo principal é aplicar conceitos fundamentais de desenvolvimento web, o
 
 ---
 
-## 🚀 Começando
+## Começando
 
 As instruções abaixo permitirão que você obtenha uma cópia do projeto funcionando em sua máquina local para fins de estudo, desenvolvimento e teste.
 
-Consulte a seção **📦 Implantação** para saber como publicar o sistema em um ambiente ativo.
+Consulte a seção **Implantação** para saber como publicar o sistema em um ambiente ativo.
 
 ---
 
-## 📋 Pré-requisitos
+## Pré-requisitos
 
 Para rodar o Coliseum Roster System, você precisará dos seguintes softwares:
 
@@ -161,7 +161,7 @@ Servem para manter:
 
 ---
 
-## 📦 Implantação
+## Implantação
 
 Para colocar o sistema em produção, recomenda-se:
 
@@ -173,7 +173,7 @@ Para colocar o sistema em produção, recomenda-se:
 
 ---
 
-## 🛠️ Construído com
+## Construído com
 
 Ferramentas utilizadas no desenvolvimento:
 
@@ -186,24 +186,24 @@ Ferramentas utilizadas no desenvolvimento:
 
 ---
 
-## 🖇️ Colaborando
+## Colaborando
 
 Leia o arquivo **COLABORACAO.md** (se aplicável) para entender o fluxo de contribuição.
 Sugestões, melhorias ou correções são bem-vindas.
 
 ---
 
-## 📌 Versão
+## Versão
 
 Este projeto segue convenções básicas de versionamento, inspiradas no SemVer.
 Consulte as *tags* do repositório para versões anteriores (se existirem).
 
 ---
 
-## ✒️ Autores
+## Autores
 
-* **[PREENCHER NOME]** – Desenvolvimento – @[PREENCHER]
-* **[PREENCHER NOME]** – Desenvolvimento – @[PREENCHER]
+* **Ian Goor** – Desenvolvimento – @[PREENCHER]
+* **Leonardo Hideki Nakayam Silva** – Desenvolvimento – @[PREENCHER]
 
 ---
 
