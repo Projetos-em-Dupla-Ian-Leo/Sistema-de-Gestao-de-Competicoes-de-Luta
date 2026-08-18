@@ -33,7 +33,7 @@ Para rodar o Coliseum Roster System, você precisará dos seguintes softwares:
 
 ---
 
-## 🔧 Instalação
+## Instalação
 
 A seguir, um passo a passo completo para preparar o projeto em ambiente local:
 
@@ -113,7 +113,7 @@ http://localhost/coliseum-roster-system/
 
 ---
 
-## ⚙️ Executando os testes
+## Executando os testes
 
 O sistema utiliza testes **manuais** como forma de validar seu funcionamento, por ser um projeto acadêmico.
 
@@ -127,7 +127,7 @@ O sistema utiliza testes **manuais** como forma de validar seu funcionamento, po
 
 ---
 
-## 🔩 Testes de ponta a ponta
+## Testes de ponta a ponta
 
 Testes de ponta a ponta asseguram que o fluxo completo entre:
 
@@ -144,7 +144,7 @@ está funcionando corretamente.
 
 ---
 
-## ⌨️ Testes de estilo e validação de código
+## Testes de estilo e validação de código
 
 Servem para manter:
 
@@ -184,30 +184,17 @@ Ferramentas utilizadas no desenvolvimento:
 * **JavaScript** – Validações e interação
 * **Padrão MVC** – Organização do sistema
 
----
-
-## Colaborando
-
-Leia o arquivo **COLABORACAO.md** (se aplicável) para entender o fluxo de contribuição.
-Sugestões, melhorias ou correções são bem-vindas.
-
----
-
-## Versão
-
-Este projeto segue convenções básicas de versionamento, inspiradas no SemVer.
-Consulte as *tags* do repositório para versões anteriores (se existirem).
 
 ---
 
 ## Autores
 
 * **Ian Goor** – Desenvolvimento – @[PREENCHER]
-* **Leonardo Hideki Nakayam Silva** – Desenvolvimento – @[PREENCHER]
+* **Leonardo Hideki Nakayama Silva** – Desenvolvimento – @[PREENCHER]
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto **não possui licença pública**.
 Todos os direitos são reservados aos autores.
